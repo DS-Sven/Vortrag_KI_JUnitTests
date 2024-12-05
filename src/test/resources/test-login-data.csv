@@ -1,0 +1,8 @@
+Benutzername,Passwort,Erwartetes Ergebnis
+,ValidPass123!,Benutzername darf nicht leer sein.
+user,,"Passwort ungültig: Mind. 8 Zeichen, 1 Zahl, 1 Sonderzeichen."
+user,short,"Passwort ungültig: Mind. 8 Zeichen, 1 Zahl, 1 Sonderzeichen."
+user,Password!,"Passwort ungültig: Mind. 8 Zeichen, 1 Zahl, 1 Sonderzeichen."
+user,Password123,"Passwort ungültig: Mind. 8 Zeichen, 1 Zahl, 1 Sonderzeichen."
+user,Pass!,"Passwort ungültig: Mind. 8 Zeichen, 1 Zahl, 1 Sonderzeichen."
+admin,admin123!,Login erfolgreich!
